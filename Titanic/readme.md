@@ -1,1 +1,1 @@
-Predicting the survival probability of the passengers of the Titanic ship with the decision tree algorithm - Accuracy = 82%
+Predicting the survival probability of the passengers of the Titanic ship with logistic regression algorithm - Accuracy = 82%
