@@ -1,0 +1,1 @@
+Forecasting the amount of furniture sales in a store with the Arima algorithm - Accuracy = 98%

@@ -1,0 +1,1 @@
+Predicting the survival probability of the passengers of the Titanic ship with the decision tree algorithm
