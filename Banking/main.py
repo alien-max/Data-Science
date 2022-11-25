@@ -8,10 +8,6 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import precision_recall_fscore_support
 import os
 
-plt.rc("font", size=14)
-sns.set(style="white")
-sns.set(style="whitegrid", color_codes=True)
-
 path = os.path.dirname(os.path.abspath(__file__))
 file_name = 'banking.txt'
 file = os.path.join(path, file_name)

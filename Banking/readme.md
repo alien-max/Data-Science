@@ -1,1 +1,2 @@
 Predicting the participation of potential bank customers in the lottery with logistic regression algorithm
+Accuracy = 90%
