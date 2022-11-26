@@ -1,0 +1,1 @@
+Predicting the probability of a lifespan of more than 11 years in abalone oysters with decision tree algorithm - Accuracy = 77%

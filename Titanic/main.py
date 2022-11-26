@@ -1,8 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
 from sklearn import model_selection
-import seaborn as sns
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import precision_recall_fscore_support
 import os
